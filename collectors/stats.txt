@@ -1,0 +1,35 @@
+----------------------------------------------------------------------------------------------------
+Stats for: /home/jnejati/PLTSpeed/desktop_b5d100-test1/longisland.craigslist.org
+Load Median: 1131.01
+Load Stdev: 65.02
+TTFB Median: 207.24
+TTFB Stdev: 10.12
+Similarity Median: 0.16
+----------------------------------------------------------------------------------------------------
+Stats for: /home/jnejati/PLTSpeed/desktop_b5d100-test1/stackoverflow.com
+Load Median: 2561.12
+Load Stdev: 59.57
+TTFB Median: 203.81
+TTFB Stdev: 9.4
+Similarity Median: 0.12
+----------------------------------------------------------------------------------------------------
+Stats for: /home/jnejati/PLTSpeed/desktop_b5d100-test1/www.apple.com
+Load Median: 3211.7
+Load Stdev: 86.24
+TTFB Median: 204.05
+TTFB Stdev: 12.96
+Similarity Median: 0.11
+----------------------------------------------------------------------------------------------------
+Stats for: /home/jnejati/PLTSpeed/desktop_b5d100-test1/www.alexa.com
+Load Median: 25683.32
+Load Stdev: 945.71
+TTFB Median: 254.16
+TTFB Stdev: 18.73
+Similarity Median: 0.165
+----------------------------------------------------------------------------------------------------
+Stats for: /home/jnejati/PLTSpeed/desktop_b5d100-test1/townhall.com
+Load Median: 7690.36
+Load Stdev: 560.09
+TTFB Median: 224.58
+TTFB Stdev: 11.97
+Similarity Median: 0.11

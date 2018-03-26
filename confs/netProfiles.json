@@ -1,0 +1,14 @@
+[  
+   {  
+      "name":"uist-img",
+      "device_type":"desktop-compression",
+      "page_type":"compressed",
+      "cached":"False",
+      "download_rate":"10Mbit",
+      "download_delay":"2.5ms",
+      "download_loss":"0.0%",
+      "upload_rate":"5Mbit",
+      "upload_delay":"2.5ms",
+      "upload_loss":"0.0%"
+   }
+]

@@ -1,0 +1,23 @@
+EventDispatch	0.5555555555555556
+ParseAuthorStyleSheet	0.4444444444444444
+PaintImage	0.5555555555555556
+MessagePumpLibevent::OnLibeventNotification	0.6666666666666666
+Decode Image	0.5
+TimerFire	0.38461538461538464
+TaskQueueManager::ProcessTaskFromWorkQueue	0.6111111111111112
+EvaluateScript	0.5
+Layout	0.5
+UpdateLayer	0.3888888888888889
+ImageDecodeTask	0.3888888888888889
+RunMicrotasks	0.35294117647058826
+Decode LazyPixelRef	0.3888888888888889
+FunctionCall	0.47058823529411764
+v8.compile	0.5555555555555556
+UpdateLayerTree	0.5
+v8.parseOnBackground	0.6
+UpdateLayoutTree	0.4444444444444444
+ParseHTML	0.5
+MessageLoop::RunTask	0.5
+FeatureFirstUsed	0.5555555555555556
+ChannelMojo::OnMessageReceived	0.4444444444444444
+MinorGC	0.5

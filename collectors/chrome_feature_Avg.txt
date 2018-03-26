@@ -1,0 +1,34 @@
+CompositeLayers	0.291795482587
+ChannelMojo::OnMessageReceived	0.459432537287
+UpdateLayoutTree	0.506496314124
+Layout	0.517918172236
+CSSFeatureFirstUsed	0.406299857759
+FeatureFirstUsed	0.505640892239
+v8.parseOnBackground	0.600714234931
+RunMicrotasks	0.429154993809
+UpdateLayerTree	0.523013065239
+SingleThreadTaskGraphRunner::RunTaskWithLockAcquired	0.163922009406
+BlinkGCMarking	0.335552437663
+Decode LazyPixelRef	0.446819903613
+WorkerThread::ThreadMain::Run	0.353788590408
+ParseAuthorStyleSheet	0.42894608638
+PaintImage	0.53986655811
+MessageLoop::RunTask	0.477231703873
+TaskGraphRunner::RunTask	0.458868578498
+UpdateLayer	0.401965300059
+Decode Image	0.481414195789
+TaskQueueManager::ProcessTaskFromWorkQueue	0.567403433967
+RasterTask	0.43276261768
+FunctionCall	0.460863782242
+MinorGC	0.462500824054
+ThreadState::performIdleLazySweep	0.325727807106
+MessagePumpLibevent::OnLibeventNotification	0.624144782607
+EventDispatch	0.420297901288
+EvaluateScript	0.490731104968
+CommitLoad	0.375564920485
+TimerFire	0.464314408411
+ImageDecodeTask	0.422656136745
+v8.compile	0.48738721117
+ParseHTML	0.513643264009
+MajorGC	0.386661585168
+Paint	0.441458169649

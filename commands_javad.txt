@@ -1,0 +1,534 @@
+ 546  uhd_find_devices 
+ 1547  clear
+ 1548  ls
+ 1549  cd
+ 1550  clear
+ 1551  ls
+ 1552  exit
+ 1553  ls
+ 1554  clear
+ 1555  ls
+ 1556  cd -
+ 1557  ls
+ 1558  cd Desktop/
+ 1559  ls
+ 1560  cd Mallesh/
+ 1561  ls
+ 1562  cd QoE/
+ 1563  ls
+ 1564  clear
+ 1565  ls
+ 1566  clear
+ 1567  ls
+ 1568  vi qoe.py 
+ 1569  clear
+ 1570  ls
+ 1571  cp qoe.py gp-qoe.py
+ 1572  vi gp-qoe.py 
+ 1573  clear
+ 1574  ls
+ 1575  mv data data-march28
+ 1576  clear
+ 1577  ls
+ 1578  python gp-qoe.py 
+ 1579  vi gp-qoe.py 
+ 1580  python gp-qoe.py 
+ 1581  vi gp-qoe.py 
+ 1582  su
+ 1583  clear
+ 1584  ls
+ 1585  vi workload1.py 
+ 1586  python workload1.py 
+ 1587  clear
+ 1588  ls
+ 1589  adb devices
+ 1590  ls
+ 1591  adb devices
+ 1592  clear
+ 1593  ls
+ 1594  cd ..
+ 1595  ls
+ 1596  clear
+ 1597  ls
+ 1598  cd
+ 1599  clear
+ 1600  exit
+ 1601  cd
+ 1602  clear
+ 1603  ssh -X spectrum@130.245.144.101
+ 1604  clear
+ 1605  ls
+ 1606  cd Desktop/
+ 1607  ls
+ 1608  clear
+ 1609  ls
+ 1610  cd Mallesh/
+ 1611  ls
+ 1612  clear
+ 1613  ls
+ 1614  cd mahimahi/
+ 1615  ls
+ 1616  cd ..
+ 1617  ls
+ 1618  cd node-http2-master/
+ 1619  ls
+ 1620  clear
+ 1621  ls
+ 1622  cd lib/
+ 1623  ls
+ 1624  cd protocol/
+ 1625  ls
+ 1626  clear
+ 1627  ls
+ 1628  cd ..
+ 1629  ls
+ 1630  cd ..
+ 1631  ls
+ 1632  cd example/
+ 1633  ls
+ 1634  vi server.js 
+ 1635  cd ..
+ 1636  ls
+ 1637  cd lib/
+ 1638  ls
+ 1639  cd protocol/
+ 1640  ls
+ 1641  clear
+ 1642  ls
+ 1643  cd
+ 1644  clear
+ 1645  ls
+ 1646  cd Desktop/
+ 1647  ls
+ 1648  cd Mallesh/
+ 1649  ls
+ 1650  cd node-http2-master/
+ 1651  ls
+ 1652  clear
+ 1653  ls
+ 1654  cd example/
+ 1655  ls
+ 1656  clear
+ 1657  ls
+ 1658  cd ..
+ 1659  ls
+ 1660  clear
+ 1661  ls
+ 1662  vi README.md 
+ 1663  node ./example/client.js 'https://localhost:8080/server.js' >/tmp/server.js
+ 1664  clear
+ 1665  ls
+ 1666  node ./example/client.js 'https://localhost:8080/server.js' >/tmp/server.js
+ 1667  clear
+ 1668  ls
+ 1669  cd
+ 1670  cd /home/git/
+ 1671  ls
+ 1672  cd mysite/
+ 1673  ls
+ 1674  vi server.js 
+ 1675  clear
+ 1676  ls
+ 1677  cd public/
+ 1678  ls
+ 1679  vi index.html 
+ 1680  clear
+ 1681  ls
+ 1682  cd ..
+ 1683  ls
+ 1684  exit
+ 1685  ls
+ 1686  clear
+ 1687  ls
+ 1688  node ./example/client.js 'https://localhost:8080/server.js' >/tmp/server.js
+ 1689  clear
+ 1690  ls
+ 1691  cd lib/
+ 1692  ls
+ 1693  cd protocol/
+ 1694  ls
+ 1695  cd ..
+ 1696  ls
+ 1697  vi http.js 
+ 1698  clear
+ 1699  ls
+ 1700  node ./example/client.js 'https://localhost:8080/server.js' >/tmp/server.js
+ 1701  exit
+ 1702  ls
+ 1703  node ./example/server.js 
+ 1704  clear
+ 1705  ls
+ 1706  cd
+ 1707  cd Desktop/
+ 1708  ls
+ 1709  tar -xvzf src-59.0.3062.4.tar.gz 
+ 1710  clear
+ 1711  ls
+ 1712  ls -l
+ 1713  clear
+ 1714  mkdir Chrome
+ 1715  mv * Chrome/
+ 1716  lls
+ 1717  clear
+ 1718  ls
+ 1719  cd Chrome/
+ 1720  ls
+ 1721  clear
+ 1722  ls
+ 1723  mv eagle_360.mp4 ../
+ 1724  rm create-an-android-cardboard-360-video-viewer-master.zip 
+ 1725  clear
+ 1726  ls
+ 1727  mv Project-Proposal-Mallesham-Santiago.pdf ../
+ 1728  mv qualcomm-adreno-opencl-programming-tips.pdf ../
+ 1729  mv Resume.pdf ../
+ 1730  mv VideoStreamTest ../
+ 1731  ls
+ 1732  clear
+ 1733  ls
+ 1734  mv Passport.pdf ../
+ 1735  mv lm80-p0436-11_adb_commands.pdf ../
+ 1736  mv Mallesh ../
+ 1737  ls
+ 1738  clear
+ 1739  ls
+ 1740  mv h-slash-w.pdf ../
+ 1741  ls
+ 1742  clear
+ 1743  ls
+ 1744  cd native_client_sdk/
+ 1745  ls
+ 1746  cd src/
+ 1747  ls
+ 1748  grep -nre "exclusive" *
+ 1749  clear
+ 1750  grep -nre "priority" *
+ 1751  clear
+ 1752  ls
+ 1753  cd ..
+ 1754  ls
+ 1755  cd ..
+ 1756  ls
+ 1757  clear
+ 1758  ls
+ 1759  grep -nre "priority" *
+ 1760  clear
+ 1761  ls
+ 1762  grep -nre "dependencies" *
+ 1763  clear
+ 1764  ls
+ 1765  mv OCR ../
+ 1766  ls
+ 1767  clear
+ 1768  ls
+ 1769  cd net/
+ 1770  ls
+ 1771  cd http2
+ 1772  ls
+ 1773  clear
+ 1774  ls
+ 1775  cd decoder/
+ 1776  ls
+ 1777  grep -nre "depend" *
+ 1778  grep -nre "priority" *
+ 1779  ls
+ 1780  cd payload_decoders/
+ 1781  ls
+ 1782  cd ..
+ 1783  ls
+ 1784  cd payload_decoders/
+ 1785  ls
+ 1786  vi priority_payload_decoder.cc 
+ 1787  cd .
+ 1788  cd ..
+ 1789  ls
+ 1790  vi http2_frame_decoder.cc 
+ 1791  clear
+ 1792  ls
+ 1793  cd ..
+ 1794  ls
+ 1795  cd ../..
+ 1796  ls
+ 1797  clear
+ 1798  ls
+ 1799  exit
+ 1800  ls
+ 1801  vi README.md 
+ 1802  node ./example/client.js 'https://localhost:8080/server.js' >/tmp/server.js
+ 1803  clear
+ 1804  ls
+ 1805  export SSLKEYLOGFILE=/tmp/sslkeylog.log
+ 1806  ls
+ 1807  cler
+ 1808  clear
+ 1809  ls
+ 1810  export SSLKEYLOGFILE=/tmp/sslkeylog.log
+ 1811  chromium-browser 
+ 1812  ls /tmp/sslkeylog.log 
+ 1813  clear
+ 1814  ls
+ 1815  export SSLKEYLOGFILE=/tmp/sslkeylog.log
+ 1816  ls
+ 1817  chromium-browser 
+ 1818  clear
+ 1819  ls
+ 1820  chromium-browser 
+ 1821  exit
+ 1822  su
+ 1823  exit
+ 1824  clear
+ 1825  ls
+ 1826  clear
+ 1827  ls
+ 1828  cd Desktop/
+ 1829  ls
+ 1830  cd Chrome/
+ 1831  ls
+ 1832  clear
+ 1833  ls
+ 1834  cd ..
+ 1835  ls
+ 1836  mkdir chrome
+ 1837  mv Chrome/src-59.0.3062.4.tar.gz chrome/
+ 1838  ls
+ 1839  clear
+ 1840  ls
+ 1841  rm -rf Chrome/
+ 1842  clear
+ 1843  ls
+ 1844  cd chrome/
+ 1845  ls
+ 1846  tar -xvzf src-59.0.3062.4.tar.gz 
+ 1847  clear
+ 1848  ls
+ 1849  git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
+ 1850  export PATH="$PATH:/path/to/depot_tools"
+ 1851  ls
+ 1852  mv depot_tools ../
+ 1853  cd ..
+ 1854  rm -rf chrome
+ 1855  clera
+ 1856  ls
+ 1857  clear
+ 1858  ls
+ 1859  mkdir ~/chromium && cd ~/chromium
+ 1860  ks
+ 1861  ls
+ 1862  cd ../Desktop/depot_tools/
+ 1863  ls
+ 1864  fetch --nohooks chromium --no-history
+ 1865  ./fetch --nohooks chromium --no-history
+ 1866  clear
+ 1867  ls
+ 1868  cd src
+ 1869  ls
+ 1870  clear
+ 1871  ls
+ 1872  export PATH="$PATH:/home/mallesh/Desktop/depot_tools"
+ 1873  ./fetch --nohooks chromium --no-history
+ 1874  ./fetch --nohooks --no-histroy chromium
+ 1875  ./fetch --nohooks --no-history chromium
+ 1876  cd src
+ 1877  ls
+ 1878  celar
+ 1879  ls
+ 1880  clear
+ 1881  ls
+ 1882  cd ../../../chromium/
+ 1883  ls
+ 1884  cd -
+ 1885  ls
+ 1886  clear
+ 1887  ls
+ 1888  build/install-build-deps.sh 
+ 1889  su
+ 1890  nvm install node
+ 1891  sudo npm cache clean -f
+ 1892  sudo npm install -g n
+ 1893  sudo n stable
+ 1894  find / -name 'browser-perf-summary.js
+ 1895  find / -name 'browser-perf-summary.js'
+ 1896  cp -R ~/util/ ./
+ 1897  ifconfig 
+ 1898  google-chrome-stable --remote-debugging-port=9222  --disable-background-networking --enable-benchmarking --enable-net-benchmarking --start-maximized  --ignore-certificate-errors --user-data-dir=$TMPDIR/chrome-profiling --no-default-browser-check
+ 1899  sudo -g mallesh google-chrome-stable --remote-debugging-port=9222  --disable-background-networking --enable-benchmarking --enable-net-benchmarking --start-maximized  --ignore-certificate-errors --user-data-dir=$TMPDIR/chrome-profiling --no-default-browser-check
+ 1900  sudo -g su mallesh google-chrome-stable --remote-debugging-port=9222  --disable-background-networking --enable-benchmarking --enable-net-benchmarking --start-maximized  --ignore-certificate-errors --user-data-dir=$TMPDIR/chrome-profiling --no-default-browser-check
+ 1901  sudo -su mallesh google-chrome-stable --remote-debugging-port=9222  --disable-background-networking --enable-benchmarking --enable-net-benchmarking --start-maximized  --ignore-certificate-errors --user-data-dir=$TMPDIR/chrome-profiling --no-default-browser-check
+ 1902  sudo -su mallesh google-chrome-stable --remote-debugging-port=9222  --disable-background-networking --enable-benchmarking --enable-net-benchmarking --start-maximized  --ignore-certificate-errors  --no-default-browser-check
+ 1903  cd Desktop/
+ 1904  ls
+ 1905  mv IMG_b9pw0u.jpg mallesh.jpg
+ 1906  ls
+ 1907  scp mallesh.jpg wings@130.245.144.8:
+ 1908  gnome-open qoe.
+ 1909  gnome-open qoe.jpg 
+ 1910  scp qoe.jpg wings@130.245.144.8:
+ 1911  clear
+ 1912  ls
+ 1913  cd ch
+ 1914  cd
+ 1915  ls
+ 1916  cd chromium/
+ 1917  ls
+ 1918  cd
+ 1919  ls
+ 1920  cd Desktop/
+ 1921  ls
+ 1922  cd Mallesh/
+ 1923  ls
+ 1924  cd ..
+ 1925  ls
+ 1926  cd depot_tools/
+ 1927  ls
+ 1928  clear
+ 1929  ls
+ 1930  cd ..
+ 1931  ls
+ 1932  cd Mallesh/
+ 1933  sl
+ 1934  cd node-http2-master/
+ 1935  ls
+ 1936  clear
+ 1937  ls
+ 1938  cd example/
+ 1939  ls
+ 1940  vi client.js 
+ 1941  cd ..
+ 1942  s
+ 1943  clear
+ 1944  ls
+ 1945  clera
+ 1946  ls
+ 1947  cd
+ 1948  clear
+ 1949  ls
+ 1950  cd Desktop/
+ 1951  ls
+ 1952  mkdir santi
+ 1953  mv http2-server-raw.zip santi/
+ 1954  cd santi/
+ 1955  ls
+ 1956  unzip http2-server-raw.zip 
+ 1957  clear
+ 1958  ls
+ 1959  cd http2-server/
+ 1960  ls
+ 1961  clear
+ 1962  ls
+ 1963  cd node_modules/
+ 1964  ls
+ 1965  cd  http2/
+ 1966  ls
+ 1967  cd ../..
+ 1968  ls
+ 1969  clear
+ 1970  ls
+ 1971  node server.js 
+ 1972  clear
+ 1973  ls
+ 1974  node server.js 
+ 1975  clear
+ 1976  ls
+ 1977  vi server.js 
+ 1978  node server.js 
+ 1979  clear
+ 1980  cd ../..
+ 1981  l
+ 1982  cd Mallesh/
+ 1983  ls
+ 1984  clear
+ 1985  ls
+ 1986  mkdir wprof
+ 1987  rm -rf wprof/
+ 1988  mkdir PLTSpeed
+ 1989  cd PLTSpeed/
+ 1990  cd .
+ 1991  cd ..
+ 1992  ssh jnejati@130.245.145.216
+ 1993  ssh jnejati@130.245.145.216 -p 9995
+ 1994  ifconfig 
+ 1995  ssh jnejati@130.245.145.216 -p 9995
+ 1996  ifconfig 
+ 1997  ssh jnejati@130.245.145.216 -p 9995
+ 1998  ls
+ 1999  ssh wings@130.245.144.8
+ 2000  cd ~/Desktop/Mallesh/
+ 2001  cd PLTSpeed/
+ 2002  ;s
+ 2003  ls
+ 2004  vi live_test.py 
+ 2005  vi live_test_mallesh.py 
+ 2006  rm ./.live_test_mallesh.py.swp 
+ 2007  vi live_test_mallesh.py 
+ 2008  vi res/mixed_live_100runs.txt
+ 2009  sudo ./live_test_mallesh.py 
+ 2010  netstat -na |grep 9222
+ 2011  sudo ./live_test_mallesh.py 
+ 2012  vi live_test_mallesh.py 
+ 2013  sudo ./live_test_mallesh.py 
+ 2014  cd desktop-compression_uist-img/
+ 2015  ls
+ 2016  cd www.cnn.com/
+ 2017  ls
+ 2018  cd run_0/
+ 2019  cd trace/
+ 2020  ls
+ 2021  ls -la
+ 2022  cat 0_www.cnn.com.trace 
+ 2023  ls -la
+ 2024  ifcong
+ 2025  ifconfig
+ 2026  sudo vi /etc/ssh/sshd_config 
+ 2027  sudo service ssh restart
+ 2028  sudo vi /etc/ssh/sshd_config 
+ 2029  sudo service ssh restart
+ 2030  cp ~/trace_parser_modular3.py ./
+ 2031  cd ../../../../
+ 2032  sudo cp ~/trace_parser_modular3.py ./
+ 2033  ;s
+ 2034  ls
+ 2035  vi analyze.py 
+ 2036  ls
+ 2037  sudo ./analyze.py 
+ 2038  sudo pip3 install coloredlogs
+ 2039  sudo ./analyze.py 
+ 2040  sudo pip3 install networkx
+ 2041  sudo ./analyze.py 
+ 2042  sudo pip3 install matplotlib
+ 2043  sudo ./analyze.py 
+ 2044  sudo pip3 install python3-tk 
+ 2045  sudo apt-get install python3-tk 
+ 2046  sudo ./analyze.py 
+ 2047  sudo apt-get install bokeh
+ 2048  sudo pip3 install bokeh
+ 2049  sudo ./analyze.py 
+ 2050  vi analyze.py 
+ 2051  sudo ./analyze.py 
+ 2052  vi trace_parser_modular3.py 
+ 2053  cp desktop-compression_uist-img/www.cnn.com/run_0/trace/0_www.cnn.com.trace ~
+ 2054  vi res/mixed_live_100runs.txt
+ 2055  sudo ./live_test_mallesh.py 
+ 2056  sudo ./analyze.py 
+ 2057  vi trace_parser_modular3.py 
+ 2058  sudo vi trace_parser_modular3.py 
+ 2059  sudo ./analyze.py 
+ 2060  sudo vi trace_parser_modular3.py 
+ 2061  sudo ./analyze.py 
+ 2062  sudo vi trace_parser_modular3.py 
+ 2063  sudo ./analyze.py 
+ 2064  cd desktop-compression_uist-img/
+ 2065  ls
+ 2066  cd www.google.com/
+ 2067  cd run_0/
+ 2068  ls
+ 2069  cd analysis/
+ 2070* 
+ 2071  ls
+ 2072  vi 0_www.google.com.out 
+ 2073  cd ..
+ 2074  vi trace_parser_modular3.py 
+ 2075  lsclear
+ 2076  ls
+ 2077  clear
+ 2078  ls
+ 2079  history >commands_javad.txt
